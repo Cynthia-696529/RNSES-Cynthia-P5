@@ -31,5 +31,6 @@ void loop() {
   }
   delay(20);
 }
-
-
+![bluetooth1](https://github.com/Cynthia-696529/Imagenes/blob/d84dff60b65b7e2d64eb665fbd70c20d90f4bdb9/espblue.jpeg)
+![bluetooth](https://github.com/Cynthia-696529/Imagenes/blob/d84dff60b65b7e2d64eb665fbd70c20d90f4bdb9/teminal.jpeg)
+![bluetooth2](https://github.com/Cynthia-696529/Imagenes/blob/d84dff60b65b7e2d64eb665fbd70c20d90f4bdb9/espblue2.png)
